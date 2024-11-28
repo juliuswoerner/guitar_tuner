@@ -32,6 +32,5 @@ fn main() {
 
     stream.play().unwrap();
 
-    // this is a comment
     stream.pause().unwrap();
 }
